@@ -1,0 +1,18 @@
+<?php
+
+error_reporting( E_ERROR );
+
+
+$key = hash('sha256',$_POST['LMI_PAYEE_PURSE'].
+$_POST['LMI_PAYMENT_AMOUNT'].
+$_POST['LMI_HOLD'].
+$_POST['LMI_PAYMENT_NO'].
+$_POST['LMI_MODE'].
+$_POST['LMI_SYS_INVS_NO'].
+$_POST['LMI_SYS_TRANS_NO'].
+$_POST['LMI_SYS_TRANS_DATE'].
+    '9876512345'.
+$_POST['LMI_PAYER_PURSE'].
+$_POST['LMI_PAYER_WM']);
+
+

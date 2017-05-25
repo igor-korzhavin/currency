@@ -1,0 +1,58 @@
+#main-menu.navbar-default .navbar-brand {
+    color: rgba(201, 205, 214, 1);
+
+}
+
+#main-menu.navbar-default {
+    font-size: 14px;
+    background-color: rgba(63, 68, 92, 1);
+    border-width: 0px;
+    border-radius: 0px;
+}
+#main-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(179, 180, 189, 1);
+    background-color: rgba(63, 68, 92, 1);
+}
+#main-menu.navbar-default .navbar-nav>li>a:hover,
+#main-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(232, 229, 229, 1);
+    background-color: rgba(98, 102, 117, 1);
+}
+#main-menu.navbar-default .navbar-nav>.active>a,
+#main-menu.navbar-default .navbar-nav>.active>a:hover,
+#main-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(230, 230, 230, 1);
+    background-color: rgba(36, 36, 51, 1);
+}
+#main-menu.navbar-default .navbar-toggle {
+    border-color: #242433;
+}
+#main-menu.navbar-default .navbar-toggle:hover,
+#main-menu.navbar-default .navbar-toggle:focus {
+    background-color: #242433;
+}
+#main-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #242433;
+}
+#main-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#main-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #3f445c;
+}
+#avg{
+    position: relative;
+    color: grey;
+    pointer-events: none;
+}
+#avg::after{
+    content: '';
+    position: absolute;
+    display: inline-block;
+    cursor: pointer;
+    pointer-events: all;
+    width: 17px;
+    height: 17px;
+    bottom: 47px;
+    right: 35px;
+    background-size: cover;
+    background-image: url("../images/up.png");
+}

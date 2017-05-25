@@ -1,0 +1,1882 @@
+<?xml version="1.0"?>
+<rates>
+            <item>
+            <from>CASHUAH</from>
+            <to>PRUSD</to>
+            <in>25.82</in>
+            <out>1</out>
+            <amount>4.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CASHUSD</from>
+            <to>PRUSD</to>
+            <in>1</in>
+            <out>1.005</out>
+            <amount>4.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>CASHUAH</to>
+            <in>1</in>
+            <out>24.8</out>
+            <amount>292719.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>CASHUSD</to>
+            <in>1.07</in>
+            <out>1</out>
+            <amount>13214.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>CASHUAH</to>
+            <in>1</in>
+            <out>25.8</out>
+            <amount>292719.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>CASHUSD</to>
+            <in>1.05</in>
+            <out>1</out>
+            <amount>13214.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>PRUSD</to>
+            <in>1</in>
+            <out>1.025</out>
+            <amount>4.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>PMRUSD</to>
+            <in>1.07</in>
+            <out>1</out>
+            <amount>11073.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>PMRRUB</to>
+            <in>1</in>
+            <out>56.063</out>
+            <amount>151095.96</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CASHUAH</from>
+            <to>ADVCUSD</to>
+            <in>26.38</in>
+            <out>1</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CASHUSD</from>
+            <to>ADVCUSD</to>
+            <in>1</in>
+            <out>1.005</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>ADVCUSD</to>
+            <in>1.035</in>
+            <out>1</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+        
+                                    <item>
+            <from>PMRUSD</from>
+            <to>PRUSD</to>
+            <in>1.01</in>
+            <out>1</out>
+            <amount>4.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRUSD</from>
+            <to>PMRRUB</to>
+            <in>1</in>
+            <out>55.6</out>
+            <amount>151095.96</amount>
+                                             </item>
+
+        
+                                    <item>
+            <from>PMRRUB</from>
+            <to>PRUSD</to>
+            <in>59.375</in>
+            <out>1</out>
+            <amount>4.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRRUB</from>
+            <to>PMRUSD</to>
+            <in>61.9</in>
+            <out>1</out>
+            <amount>11073.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>PMRUSD</to>
+            <in>1.0295</in>
+            <out>1</out>
+            <amount>11073.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>PMRRUB</to>
+            <in>1</in>
+            <out>57.449</out>
+            <amount>151095.96</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRUSD</from>
+            <to>ADVCUSD</to>
+            <in>1</in>
+            <out>1.018</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRRUB</from>
+            <to>ADVCUSD</to>
+            <in>59.535</in>
+            <out>1</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>P24UAH</to>
+            <in>1</in>
+            <out>25.78</out>
+            <amount>88342.66</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>P24UAH</to>
+            <in>1</in>
+            <out>24.75</out>
+            <amount>88342.66</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>P24UAH</from>
+            <to>ADVCUSD</to>
+            <in>26.38</in>
+            <out>1</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>P24UAH</from>
+            <to>PRUSD</to>
+            <in>25.72</in>
+            <out>1</out>
+            <amount>4.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>PH24UAH</to>
+            <in>1</in>
+            <out>25.82</out>
+            <amount>66506.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>PH24UAH</to>
+            <in>1</in>
+            <out>24.9</out>
+            <amount>66506.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CASHUAH</from>
+            <to>YAMRUB</to>
+            <in>1</in>
+            <out>2.17</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CASHRUB</from>
+            <to>YAMRUB</to>
+            <in>1</in>
+            <out>1.012</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>YAMRUB</to>
+            <in>1</in>
+            <out>56.078</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRUSD</from>
+            <to>YAMRUB</to>
+            <in>1</in>
+            <out>56.204</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRRUB</from>
+            <to>YAMRUB</to>
+            <in>1.04</in>
+            <out>1</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>YAMRUB</to>
+            <in>1</in>
+            <out>57.424</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>P24UAH</from>
+            <to>YAMRUB</to>
+            <in>1</in>
+            <out>2.18</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CASHUAH</from>
+            <to>OKUSD</to>
+            <in>26.5</in>
+            <out>1</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CASHUSD</from>
+            <to>OKUSD</to>
+            <in>1</in>
+            <out>1.01</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>OKUSD</to>
+            <in>1.035</in>
+            <out>1</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CASHUAH</from>
+            <to>QWRUB</to>
+            <in>1</in>
+            <out>2.13</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CASHRUB</from>
+            <to>QWRUB</to>
+            <in>1</in>
+            <out>1.012</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>OKUSD</to>
+            <in>1.006</in>
+            <out>1</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>QWRUB</to>
+            <in>1</in>
+            <out>55.497</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRUSD</from>
+            <to>OKUSD</to>
+            <in>1</in>
+            <out>1.01</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRUSD</from>
+            <to>QWRUB</to>
+            <in>1</in>
+            <out>58.424</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRRUB</from>
+            <to>OKUSD</to>
+            <in>61.552</in>
+            <out>1</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRRUB</from>
+            <to>QWRUB</to>
+            <in>1.05</in>
+            <out>1</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>QWRUB</to>
+            <in>1</in>
+            <out>57.272</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>P24UAH</from>
+            <to>OKUSD</to>
+            <in>26.5</in>
+            <out>1</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>P24UAH</from>
+            <to>QWRUB</to>
+            <in>1</in>
+            <out>2.18</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRRUB</from>
+            <to>ACRUB</to>
+            <in>1.04</in>
+            <out>1</out>
+            <amount>136491.28</amount>
+                                                                         </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>ACRUB</to>
+            <in>1</in>
+            <out>56.191</out>
+            <amount>136491.28</amount>
+                                                                         </item>
+
+        
+                            <item>
+            <from>P24UAH</from>
+            <to>ACRUB</to>
+            <in>1</in>
+            <out>2.15</out>
+            <amount>136491.28</amount>
+                                                                         </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>SBERRUB</to>
+            <in>1</in>
+            <out>54.388</out>
+            <amount>284079.16</amount>
+                                                    <tofee>1 %</tofee>
+                                     </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>SBERRUB</to>
+            <in>1</in>
+            <out>56.355</out>
+            <amount>284079.16</amount>
+                                                    <tofee>1 %</tofee>
+                                     </item>
+
+        
+                            <item>
+            <from>P24UAH</from>
+            <to>SBERRUB</to>
+            <in>1</in>
+            <out>2.145</out>
+            <amount>284079.16</amount>
+                                                    <tofee>1 %</tofee>
+                                     </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>CARDUAH</to>
+            <in>1</in>
+            <out>24.75</out>
+            <amount>109582.10</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>PRUSD</from>
+                <to>WIREUAH</to>
+                <in>1</in>
+                <out>24.75</out>
+                <amount>109582.10</amount>
+                
+                                            </item>
+                            <item>
+            <from>PMRUSD</from>
+            <to>CARDUAH</to>
+            <in>1</in>
+            <out>25.9</out>
+            <amount>109582.10</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>PMRUSD</from>
+                <to>WIREUAH</to>
+                <in>1</in>
+                <out>25.9</out>
+                <amount>109582.10</amount>
+                
+                                            </item>
+                            <item>
+            <from>PMRRUB</from>
+            <to>CARDUAH</to>
+            <in>2.25</in>
+            <out>1</out>
+            <amount>109582.10</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>PMRRUB</from>
+                <to>WIREUAH</to>
+                <in>2.25</in>
+                <out>1</out>
+                <amount>109582.10</amount>
+                
+                                            </item>
+                            <item>
+            <from>ADVCUSD</from>
+            <to>CARDUAH</to>
+            <in>1</in>
+            <out>25.78</out>
+            <amount>109582.10</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>ADVCUSD</from>
+                <to>WIREUAH</to>
+                <in>1</in>
+                <out>25.78</out>
+                <amount>109582.10</amount>
+                
+                                            </item>
+                            <item>
+            <from>PRUSD</from>
+            <to>RUSSTRUB</to>
+            <in>1</in>
+            <out>54.388</out>
+            <amount>332924.26</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>CARDRUB</to>
+            <in>1</in>
+            <out>54.736</out>
+            <amount>338911.08</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>PRUSD</from>
+                <to>WIRERUB</to>
+                <in>1</in>
+                <out>54.736</out>
+                <amount>338911.08</amount>
+                
+                                            </item>
+                            <item>
+            <from>PMRUSD</from>
+            <to>CARDRUB</to>
+            <in>1</in>
+            <out>55.851</out>
+            <amount>338911.08</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>PMRUSD</from>
+                <to>WIRERUB</to>
+                <in>1</in>
+                <out>55.851</out>
+                <amount>338911.08</amount>
+                
+                                            </item>
+                            <item>
+            <from>ADVCUSD</from>
+            <to>RUSSTRUB</to>
+            <in>1</in>
+            <out>56.191</out>
+            <amount>332924.26</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>P24UAH</from>
+            <to>CARDRUB</to>
+            <in>1</in>
+            <out>2.15</out>
+            <amount>338911.08</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>P24UAH</from>
+                <to>WIRERUB</to>
+                <in>1</in>
+                <out>2.15</out>
+                <amount>338911.08</amount>
+                
+                                            </item>
+                            <item>
+            <from>CASHUAH</from>
+            <to>PMUSD</to>
+            <in>26.38</in>
+            <out>1</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CASHUSD</from>
+            <to>PMUSD</to>
+            <in>1</in>
+            <out>1.005</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>PMUSD</to>
+            <in>1.045</in>
+            <out>1</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>PMUSD</to>
+            <in>1.01</in>
+            <out>1</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRUSD</from>
+            <to>PMUSD</to>
+            <in>1</in>
+            <out>1.005</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRRUB</from>
+            <to>PMUSD</to>
+            <in>61.754</in>
+            <out>1</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>P24UAH</from>
+            <to>PMUSD</to>
+            <in>26.38</in>
+            <out>1</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CASHUAH</from>
+            <to>BTC</to>
+            <in>33480.966</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CASHUSD</from>
+            <to>BTC</to>
+            <in>1277.202</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PRUSD</from>
+            <to>BTC</to>
+            <in>1355.172</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>ADVCUSD</from>
+            <to>BTC</to>
+            <in>1303.596</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRUSD</from>
+            <to>BTC</to>
+            <in>1287.426</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMRRUB</from>
+            <to>BTC</to>
+            <in>76163.1</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>P24UAH</from>
+            <to>BTC</to>
+            <in>33012.021</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>CASHUAH</to>
+            <in>2.26</in>
+            <out>1</out>
+            <amount>292719.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>CASHRUB</to>
+            <in>1.05</in>
+            <out>1</out>
+            <amount>564590.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>PRUSD</to>
+            <in>57.48</in>
+            <out>1</out>
+            <amount>4.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>PMRUSD</to>
+            <in>59.029</in>
+            <out>1</out>
+            <amount>11073.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>PMRRUB</to>
+            <in>1.01</in>
+            <out>1</out>
+            <amount>151095.96</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>ADVCUSD</to>
+            <in>58.866</in>
+            <out>1</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+        
+                                    <item>
+            <from>YAMRUB</from>
+            <to>P24UAH</to>
+            <in>2.26</in>
+            <out>1</out>
+            <amount>88342.66</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>PH24UAH</to>
+            <in>2.235</in>
+            <out>1</out>
+            <amount>66506.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>OKUSD</to>
+            <in>58.983</in>
+            <out>1</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>QWRUB</to>
+            <in>1.01</in>
+            <out>1</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>ACRUB</to>
+            <in>1.043</in>
+            <out>1</out>
+            <amount>136491.28</amount>
+                                                                         </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>SBERRUB</to>
+            <in>1.034</in>
+            <out>1</out>
+            <amount>284079.16</amount>
+                                                    <tofee>1 %</tofee>
+                                     </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>CARDUAH</to>
+            <in>2.26</in>
+            <out>1</out>
+            <amount>109582.10</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>YAMRUB</from>
+                <to>WIREUAH</to>
+                <in>2.26</in>
+                <out>1</out>
+                <amount>109582.10</amount>
+                
+                                            </item>
+                            <item>
+            <from>YAMRUB</from>
+            <to>RUSSTRUB</to>
+            <in>1.043</in>
+            <out>1</out>
+            <amount>332924.26</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>CARDRUB</to>
+            <in>1.043</in>
+            <out>1</out>
+            <amount>338911.08</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>YAMRUB</from>
+                <to>WIRERUB</to>
+                <in>1.043</in>
+                <out>1</out>
+                <amount>338911.08</amount>
+                
+                                            </item>
+                            <item>
+            <from>YAMRUB</from>
+            <to>PMUSD</to>
+            <in>59.024</in>
+            <out>1</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>YAMRUB</from>
+            <to>BTC</to>
+            <in>75309.767</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>CASHUAH</to>
+            <in>1</in>
+            <out>25.8</out>
+            <amount>292719.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>CASHUSD</to>
+            <in>1.05</in>
+            <out>1</out>
+            <amount>13214.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>PRUSD</to>
+            <in>1</in>
+            <out>1.025</out>
+            <amount>4.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>PMRUSD</to>
+            <in>1.033</in>
+            <out>1</out>
+            <amount>11073.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>PMRRUB</to>
+            <in>1</in>
+            <out>56.86</out>
+            <amount>151095.96</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>ADVCUSD</to>
+            <in>1</in>
+            <out>1.002</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+        
+                                    <item>
+            <from>QWRUB</from>
+            <to>CASHUAH</to>
+            <in>2.27</in>
+            <out>1</out>
+            <amount>292719.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>CASHRUB</to>
+            <in>1.04</in>
+            <out>1</out>
+            <amount>564590.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>PRUSD</to>
+            <in>57.364</in>
+            <out>1</out>
+            <amount>4.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>PMRUSD</to>
+            <in>58.726</in>
+            <out>1</out>
+            <amount>11073.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>PMRRUB</to>
+            <in>1.01</in>
+            <out>1</out>
+            <amount>151095.96</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>ADVCUSD</to>
+            <in>58.693</in>
+            <out>1</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+        
+                                    <item>
+            <from>OKUSD</from>
+            <to>P24UAH</to>
+            <in>1</in>
+            <out>25.78</out>
+            <amount>88342.66</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>P24UAH</to>
+            <in>2.27</in>
+            <out>1</out>
+            <amount>88342.66</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>PH24UAH</to>
+            <in>1</in>
+            <out>25.8</out>
+            <amount>66506.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>PH24UAH</to>
+            <in>2.265</in>
+            <out>1</out>
+            <amount>66506.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>YAMRUB</to>
+            <in>1</in>
+            <out>57.449</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>YAMRUB</to>
+            <in>1.01</in>
+            <out>1</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>QWRUB</to>
+            <in>1</in>
+            <out>57.359</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>OKUSD</to>
+            <in>59.034</in>
+            <out>1</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>ACRUB</to>
+            <in>1</in>
+            <out>56.84</out>
+            <amount>136491.28</amount>
+                                                                         </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>ACRUB</to>
+            <in>1.043</in>
+            <out>1</out>
+            <amount>136491.28</amount>
+                                                                         </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>SBERRUB</to>
+            <in>1</in>
+            <out>56.84</out>
+            <amount>284079.16</amount>
+                                                    <tofee>1 %</tofee>
+                                     </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>SBERRUB</to>
+            <in>1.043</in>
+            <out>1</out>
+            <amount>284079.16</amount>
+                                                    <tofee>1 %</tofee>
+                                     </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>CARDUAH</to>
+            <in>1</in>
+            <out>25.78</out>
+            <amount>109582.10</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>OKUSD</from>
+                <to>WIREUAH</to>
+                <in>1</in>
+                <out>25.78</out>
+                <amount>109582.10</amount>
+                
+                                            </item>
+                            <item>
+            <from>QWRUB</from>
+            <to>CARDUAH</to>
+            <in>2.27</in>
+            <out>1</out>
+            <amount>109582.10</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>QWRUB</from>
+                <to>WIREUAH</to>
+                <in>2.27</in>
+                <out>1</out>
+                <amount>109582.10</amount>
+                
+                                            </item>
+                            <item>
+            <from>OKUSD</from>
+            <to>RUSSTRUB</to>
+            <in>1</in>
+            <out>56.84</out>
+            <amount>332924.26</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>CARDRUB</to>
+            <in>1</in>
+            <out>56.84</out>
+            <amount>338911.08</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>OKUSD</from>
+                <to>WIRERUB</to>
+                <in>1</in>
+                <out>56.84</out>
+                <amount>338911.08</amount>
+                
+                                            </item>
+                            <item>
+            <from>QWRUB</from>
+            <to>RUSSTRUB</to>
+            <in>1.053</in>
+            <out>1</out>
+            <amount>332924.26</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>CARDRUB</to>
+            <in>1.055</in>
+            <out>1</out>
+            <amount>338911.08</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>QWRUB</from>
+                <to>WIRERUB</to>
+                <in>1.055</in>
+                <out>1</out>
+                <amount>338911.08</amount>
+                
+                                            </item>
+                            <item>
+            <from>OKUSD</from>
+            <to>PMUSD</to>
+            <in>1.0044</in>
+            <out>1</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>PMUSD</to>
+            <in>58.93</in>
+            <out>1</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>OKUSD</from>
+            <to>BTC</to>
+            <in>1298.504</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>QWRUB</from>
+            <to>BTC</to>
+            <in>76051.735</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>SBERRUB</from>
+            <to>PRUSD</to>
+            <in>56.355</in>
+            <out>1</out>
+            <amount>4.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>SBERRUB</from>
+            <to>ADVCUSD</to>
+            <in>58.373</in>
+            <out>1</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>SBERRUB</from>
+            <to>P24UAH</to>
+            <in>2.212</in>
+            <out>1</out>
+            <amount>88342.66</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>SBERRUB</from>
+            <to>PH24UAH</to>
+            <in>2.201</in>
+            <out>1</out>
+            <amount>66506.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>SBERRUB</from>
+            <to>YAMRUB</to>
+            <in>1</in>
+            <out>1.01</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>SBERRUB</from>
+            <to>OKUSD</to>
+            <in>58.252</in>
+            <out>1</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>SBERRUB</from>
+            <to>QWRUB</to>
+            <in>1</in>
+            <out>1.012</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>SBERRUB</from>
+            <to>CARDUAH</to>
+            <in>2.212</in>
+            <out>1</out>
+            <amount>109582.10</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>SBERRUB</from>
+                <to>WIREUAH</to>
+                <in>2.212</in>
+                <out>1</out>
+                <amount>109582.10</amount>
+                
+                                            </item>
+                            <item>
+            <from>SBERRUB</from>
+            <to>PMUSD</to>
+            <in>57.416</in>
+            <out>1</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>SBERRUB</from>
+            <to>BTC</to>
+            <in>73977.168</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>CARDUAH</from>
+            <to>PRUSD</to>
+            <in>25.72</in>
+            <out>1</out>
+            <amount>4.99</amount>
+                                             </item>
+
+                    <item>
+                <from>WIREUAH</from>
+                <to>PRUSD</to>
+                <in>25.72</in>
+                <out>1</out>
+                <amount>4.99</amount>
+                
+                                            </item>
+        
+                            <item>
+            <from>CARDUAH</from>
+            <to>ADVCUSD</to>
+            <in>26.38</in>
+            <out>1</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+                    <item>
+                <from>WIREUAH</from>
+                <to>ADVCUSD</to>
+                <in>26.38</in>
+                <out>1</out>
+                <amount>2379.78</amount>
+                
+                                            </item>
+        
+                                    <item>
+            <from>CARDUAH</from>
+            <to>YAMRUB</to>
+            <in>1</in>
+            <out>2.18</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+                    <item>
+                <from>WIREUAH</from>
+                <to>YAMRUB</to>
+                <in>1</in>
+                <out>2.18</out>
+                <amount>593870.36</amount>
+                
+                                            </item>
+        
+                            <item>
+            <from>CARDUAH</from>
+            <to>OKUSD</to>
+            <in>26.5</in>
+            <out>1</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+                    <item>
+                <from>WIREUAH</from>
+                <to>OKUSD</to>
+                <in>26.5</in>
+                <out>1</out>
+                <amount>14566.02</amount>
+                
+                                            </item>
+        
+                            <item>
+            <from>CARDUAH</from>
+            <to>QWRUB</to>
+            <in>1</in>
+            <out>2.19</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+                    <item>
+                <from>WIREUAH</from>
+                <to>QWRUB</to>
+                <in>1</in>
+                <out>2.19</out>
+                <amount>303731.38</amount>
+                
+                                            </item>
+        
+                            <item>
+            <from>CARDUAH</from>
+            <to>ACRUB</to>
+            <in>1</in>
+            <out>2.15</out>
+            <amount>136491.28</amount>
+                                                                         </item>
+
+                    <item>
+                <from>WIREUAH</from>
+                <to>ACRUB</to>
+                <in>1</in>
+                <out>2.15</out>
+                <amount>136491.28</amount>
+                
+                                                                                </item>
+        
+                            <item>
+            <from>CARDUAH</from>
+            <to>SBERRUB</to>
+            <in>1</in>
+            <out>2.145</out>
+            <amount>284079.16</amount>
+                                                    <tofee>1 %</tofee>
+                                     </item>
+
+                    <item>
+                <from>WIREUAH</from>
+                <to>SBERRUB</to>
+                <in>1</in>
+                <out>2.145</out>
+                <amount>284079.16</amount>
+                
+                                                    <tofee>1 %</tofee>
+                                                </item>
+        
+                            <item>
+            <from>CARDUAH</from>
+            <to>RUSSTRUB</to>
+            <in>1</in>
+            <out>2.15</out>
+            <amount>332924.26</amount>
+                                             </item>
+
+                    <item>
+                <from>WIREUAH</from>
+                <to>RUSSTRUB</to>
+                <in>1</in>
+                <out>2.15</out>
+                <amount>332924.26</amount>
+                
+                                            </item>
+        
+                            <item>
+            <from>CARDUAH</from>
+            <to>CARDRUB</to>
+            <in>1</in>
+            <out>2.15</out>
+            <amount>338911.08</amount>
+                                             </item>
+
+                    <item>
+                <from>WIREUAH</from>
+                <to>CARDRUB</to>
+                <in>1</in>
+                <out>2.15</out>
+                <amount>338911.08</amount>
+                
+                                            </item>
+        
+                    <item>
+                <from>CARDUAH</from>
+                <to>WIRERUB</to>
+                <in>1</in>
+                <out>2.15</out>
+                <amount>338911.08</amount>
+                
+                                            </item>
+                            <item>
+            <from>CARDUAH</from>
+            <to>PMUSD</to>
+            <in>26.38</in>
+            <out>1</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+                    <item>
+                <from>WIREUAH</from>
+                <to>PMUSD</to>
+                <in>26.38</in>
+                <out>1</out>
+                <amount>12494.84</amount>
+                
+                                            </item>
+        
+                            <item>
+            <from>CARDUAH</from>
+            <to>BTC</to>
+            <in>33080.145</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+                    <item>
+                <from>WIREUAH</from>
+                <to>BTC</to>
+                <in>33080.145</in>
+                <out>1</out>
+                <amount>2.17</amount>
+                
+                                            </item>
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>CASHUAH</to>
+            <in>1</in>
+            <out>25.6</out>
+            <amount>292719.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>CASHUSD</to>
+            <in>1.05</in>
+            <out>1</out>
+            <amount>13214.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>PRUSD</to>
+            <in>1</in>
+            <out>1.031</out>
+            <amount>4.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>ADVCUSD</to>
+            <in>1</in>
+            <out>1.0003</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+        
+                                    <item>
+            <from>PMUSD</from>
+            <to>PMRUSD</to>
+            <in>1.0204</in>
+            <out>1</out>
+            <amount>11073.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>PMRRUB</to>
+            <in>1</in>
+            <out>57.213</out>
+            <amount>151095.96</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>P24UAH</to>
+            <in>1</in>
+            <out>25.6</out>
+            <amount>88342.66</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>PH24UAH</to>
+            <in>1</in>
+            <out>25.65</out>
+            <amount>66506.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>YAMRUB</to>
+            <in>1</in>
+            <out>57.541</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>OKUSD</to>
+            <in>1.007</in>
+            <out>1</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>QWRUB</to>
+            <in>1</in>
+            <out>57.5</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>SBERRUB</to>
+            <in>1</in>
+            <out>56.044</out>
+            <amount>284079.16</amount>
+                                                    <tofee>1 %</tofee>
+                                     </item>
+
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>CARDUAH</to>
+            <in>1</in>
+            <out>25.6</out>
+            <amount>109582.10</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>PMUSD</from>
+                <to>WIREUAH</to>
+                <in>1</in>
+                <out>25.6</out>
+                <amount>109582.10</amount>
+                
+                                            </item>
+                            <item>
+            <from>PMUSD</from>
+            <to>RUSSTRUB</to>
+            <in>1</in>
+            <out>56.044</out>
+            <amount>332924.26</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>PMUSD</from>
+            <to>CARDRUB</to>
+            <in>1</in>
+            <out>56.044</out>
+            <amount>338911.08</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>PMUSD</from>
+                <to>WIRERUB</to>
+                <in>1</in>
+                <out>56.044</out>
+                <amount>338911.08</amount>
+                
+                                            </item>
+                            <item>
+            <from>PMUSD</from>
+            <to>BTC</to>
+            <in>1299</in>
+            <out>1</out>
+            <amount>2.17</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>CASHUAH</to>
+            <in>1</in>
+            <out>32533.181</out>
+            <amount>292719.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>CASHUSD</to>
+            <in>1</in>
+            <out>1256.046</out>
+            <amount>13214.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>PRUSD</to>
+            <in>1</in>
+            <out>1314.883</out>
+            <amount>4.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>PMRUSD</to>
+            <in>1</in>
+            <out>1242.849</out>
+            <amount>11073.00</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>PMRRUB</to>
+            <in>1</in>
+            <out>72486.261</out>
+            <amount>151095.96</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>ADVCUSD</to>
+            <in>1</in>
+            <out>1277.353</out>
+            <amount>2379.78</amount>
+                                             </item>
+
+        
+                                    <item>
+            <from>BTC</from>
+            <to>P24UAH</to>
+            <in>1</in>
+            <out>32425.574</out>
+            <amount>88342.66</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>PH24UAH</to>
+            <in>1</in>
+            <out>32000</out>
+            <amount>66506.99</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>YAMRUB</to>
+            <in>1</in>
+            <out>73473.448</out>
+            <amount>593870.36</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>OKUSD</to>
+            <in>1</in>
+            <out>1279.392</out>
+            <amount>14566.02</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>QWRUB</to>
+            <in>1</in>
+            <out>74196.815</out>
+            <amount>303731.38</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>ACRUB</to>
+            <in>1</in>
+            <out>71822.494</out>
+            <amount>136491.28</amount>
+                                                                         </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>SBERRUB</to>
+            <in>1</in>
+            <out>71822.494</out>
+            <amount>284079.16</amount>
+                                                    <tofee>1 %</tofee>
+                                     </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>CARDUAH</to>
+            <in>1</in>
+            <out>32431.515</out>
+            <amount>109582.10</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>BTC</from>
+                <to>WIREUAH</to>
+                <in>1</in>
+                <out>32431.515</out>
+                <amount>109582.10</amount>
+                
+                                            </item>
+                            <item>
+            <from>BTC</from>
+            <to>RUSSTRUB</to>
+            <in>1</in>
+            <out>71822.494</out>
+            <amount>332924.26</amount>
+                                             </item>
+
+        
+                            <item>
+            <from>BTC</from>
+            <to>CARDRUB</to>
+            <in>1</in>
+            <out>71822.494</out>
+            <amount>338911.08</amount>
+                                             </item>
+
+        
+                    <item>
+                <from>BTC</from>
+                <to>WIRERUB</to>
+                <in>1</in>
+                <out>71822.494</out>
+                <amount>338911.08</amount>
+                
+                                            </item>
+                            <item>
+            <from>BTC</from>
+            <to>PMUSD</to>
+            <in>1</in>
+            <out>1272</out>
+            <amount>12494.84</amount>
+                                             </item>
+
+        
+                </rates>
